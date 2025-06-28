@@ -1,0 +1,6 @@
+@CacheLoggerAppAPI_HostAddress = http://localhost:5110
+
+GET {{CacheLoggerAppAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
